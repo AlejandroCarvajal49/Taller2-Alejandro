@@ -19,4 +19,4 @@ def get_primes(limit):
 
 # Example usage
 if __name__ == "__main__":
-    print(get_primes(30))  # [2, 3, 5, 7, 11, 13, 17, 19, 23, 29]
+    print(get_primes(25))  # [2, 3, 5, 7, 11, 13, 17, 19, 23, 29]
